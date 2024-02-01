@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ady-6720" alt="ady-6720" /></a> </p>
 
-- 🔭 I’m currently studying **Databases and Disctributed systems**
+- 🔭 I’m currently studying **Databases and Distributed systems**
 
 - 🌱 I’m currently learning & practicing **Javascript,**
 
