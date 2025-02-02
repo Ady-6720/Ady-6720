@@ -91,32 +91,3 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="211" src="https://media1.tenor.com/m/o83ABNje01sAAAAd/you%27re-welcome-jonas-taylor.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ady-6720&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="176" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ady-6720&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=true&order=2" height="178" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Ady-6720&theme=dracula&column=-1&row=2&margin-w=7&margin-h=7&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Ady-6720/Ady-6720/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=aditya.inc6720&theme=rose_pine" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ady-6720/count.svg?"  />
-</div>
-
-###
